@@ -373,8 +373,8 @@ invert = function (pixels) {
 };
 ```
 # 6. 参考链接
-David Walsh, [JavaScript Canvas Image Conversion](https://davidwalsh.name/convert-canvas-image)
-Matt West, [Getting Started With The Canvas API](http://blog.teamtreehouse.com/getting-started-with-the-canvas-api)
-John Robinson, [How You Can Do Cool Image Effects Using HTML5 Canvas](http://www.storminthecastle.com/2013/04/06/how-you-can-do-cool-image-effects-using-html5-canvas/)
-Ivaylo Gerchev, [HTML5 Canvas Tutorial: An Introduction](http://www.sitepoint.com/html5-canvas-tutorial-introduction/)
-Donovan Hutchinson, [Particles in canvas](http://hop.ie/blog/particles/)
+David Walsh, [JavaScript Canvas Image Conversion](https://davidwalsh.name/convert-canvas-image)  
+Matt West, [Getting Started With The Canvas API](http://blog.teamtreehouse.com/getting-started-with-the-canvas-api)  
+John Robinson, [How You Can Do Cool Image Effects Using HTML5 Canvas](http://www.storminthecastle.com/2013/04/06/how-you-can-do-cool-image-effects-using-html5-canvas/)  
+Ivaylo Gerchev, [HTML5 Canvas Tutorial: An Introduction](http://www.sitepoint.com/html5-canvas-tutorial-introduction/)  
+Donovan Hutchinson, [Particles in canvas](http://hop.ie/blog/particles/)  
