@@ -354,7 +354,7 @@ brightness = function (pixels, delta) {
 	return pixels;
 
 };
-```javascript
+```
 ## 5.5 反转效果
 反转效果（invert）是指图片呈现一种色彩颠倒的效果。算法为红、绿、蓝通道都取各自的相反值（255-原值）。
 ```javascript
