@@ -52,9 +52,9 @@ ctx.lineWidth = 1.0; // 设置线宽
 ctx.strokeStyle = '#CC0000'; // 设置线的颜色
 ctx.stroke(); // 进行线的着色，这时整条线才变得可见
 moveto和lineto方法可以多次使用。最后，还可以使用closePath方法，自动绘制一条当前点到起点的直线，形成一个封闭图形，省却使用一次lineto方法。
-
+```
 ##（2）绘制矩形
-
+```javascript
 fillRect(x, y, width, height)方法用来绘制矩形，它的四个参数分别为矩形左上角顶点的x坐标、y坐标，以及矩形的宽和高。fillStyle属性用来设置矩形的填充色。
 
 ctx.fillStyle = 'yellow';
@@ -65,8 +65,9 @@ ctx.strokeRect(10,10,200,100);
 clearRect方法用来清除某个矩形区域的内容。
 
 ctx.clearRect(100,50,50,50);  
+```
 ##（3）绘制文本
-
+```javascript
 fillText(string, x, y) 用来绘制文本，它的三个参数分别为文本内容、起点的x坐标、y坐标。使用之前，需用font设置字体、大小、样式（写法类似与CSS的font属性）。与此类似的还有strokeText方法，用来添加空心字。
 
 // 设置字体
